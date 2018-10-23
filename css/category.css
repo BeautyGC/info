@@ -1,0 +1,33 @@
+  <style>
+	#category{
+		background-color: white;
+		padding: 10px;
+	}
+	#category table{
+		margin-top:10px;
+	}
+	#category table i{
+		color:#66bb0d;
+		cursor: pointer;
+	}
+	#category table i:nth-child(2){
+		color:red;
+		margin-left:10px;
+	}
+	.modal{
+		background-color: rgba(0,0,0,0.4);
+	}
+	.modal-dialog{
+		width: 300px;
+		margin-top:0;
+		margin-right: 0;
+	}
+	.backDiv{
+		float: left;
+	}
+	.messageSpan{
+		color: red;
+	}
+</style>
+
+
